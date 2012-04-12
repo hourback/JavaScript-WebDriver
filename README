@@ -1,0 +1,6 @@
+This is my project to write scripts for Selenium2/WebDriver using JavaScript+Rhino and WebDriver's Java libraries.
+
+Once I downloaded the WebDriver and Rhino packages, I executed it like:
+
+  java -cp "/opt/selenium-2.20.0/*:/opt/selenium-2.20.0/libs/*:/opt/rhino1_7R3/*" org.mozilla.javascript.tools.shell.Main ~/projects/javascript/webdriver/webdriver.js
+
